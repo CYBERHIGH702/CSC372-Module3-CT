@@ -1,0 +1,12 @@
+# Build output
+target/
+out/
+*.class
+
+# File written by the program at run time
+log.txt
+
+# IntelliJ IDEA user-specific files
+.idea/workspace.xml
+.idea/shelf/
+*.iws
